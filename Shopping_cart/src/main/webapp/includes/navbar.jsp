@@ -5,12 +5,12 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     </button>
     
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+    <ul class="navbar-nav ml-auto">
+    
      <div class="logo">
     
-      <a href="#home"><img src=""></a>
     </div>
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link active" aria-current="page" href="index.jsp">Home</a>
         </li>
         <li class="nav-item">

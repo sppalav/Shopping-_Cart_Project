@@ -34,26 +34,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/webapp/includes/jergens-prd.jpg</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/sp/jergens-prd.jpg</locationURI>
-		</link>
-		<link>
-			<name>src/main/webapp/product-image/headphone-boat.jpeg</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/sp/headphone-boat.jpeg</locationURI>
-		</link>
-		<link>
-			<name>src/main/webapp/product-image/men-watch.jpeg</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/sp/men-watch.jpeg</locationURI>
-		</link>
-		<link>
-			<name>src/main/webapp/product-image/shoes-nike.jpeg</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/sp/shoes-nike.jpeg</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>

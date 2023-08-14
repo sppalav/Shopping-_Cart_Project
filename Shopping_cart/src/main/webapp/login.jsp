@@ -17,6 +17,7 @@
 <%@ include file="includes/head.jsp" %>
 </head>
 <body>
+<header>
 <div><%@ include file="includes/navbar.jsp" %>
 <div class="tech">
 <div class="container min-vh-80 d-flex justify-content-center align-items-center">
@@ -46,6 +47,7 @@
 </div>
 </div>
 </div>
+</header>
 <%@ include file="includes/footer.jsp" %>
 </body>
 </html>
